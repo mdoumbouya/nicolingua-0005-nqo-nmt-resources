@@ -1,7 +1,19 @@
 # nicolingua-0005-nqo-nmt-resources
 This package contains training corpora for machine translation system development for the [n'ko language](https://en.wikipedia.org/wiki/N%27Ko_language) written in the [n'ko script](https://en.wikipedia.org/wiki/N%27Ko_script).
 
+Included datasets were curated from files provided by Baba Mamadi Diané, Solo Farabado Cissé, Djibrila Diané, Nafadji Sory Condé and Kalo Mory Diané
 
+## 2023-06-19: WMT 2023 N'ko NMT Task details
+- train sets:
+  - nicolingua-0005-nqo-nmt-resources (this dataset)
+  - [common-parallel-corpora/multitext-nllb-seed](https://github.com/common-parallel-corpora/common-parallel-corpora)
+- dev set:
+  - [common-parallel-corpora/flores-200-dev](https://github.com/common-parallel-corpora/common-parallel-corpora)
+- test set:
+  - [common-parallel-corpora/flores-200-devtest](https://github.com/common-parallel-corpora/common-parallel-corpora)
+
+
+## Dataset Description
 |corpora type|languages|parallel entries|nqo words|
 |--|--|--:|--:|
 |trilingual|nqo_Nkoo, eng_Latn, fra_Latn|25 848|256 934|
