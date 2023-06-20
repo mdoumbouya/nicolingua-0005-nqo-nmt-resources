@@ -4,13 +4,8 @@ This package contains training corpora for machine translation system developmen
 Included datasets were curated from files provided by Baba Mamadi Diané, Solo Farabado Cissé, Djibrila Diané, Nafadji Sory Condé and Kalo Mory Diané
 
 ## 2023-06-19: WMT 2023 N'ko NMT Task details
-- train sets:
-  - nicolingua-0005-nqo-nmt-resources (this dataset)
-  - [common-parallel-corpora/multitext-nllb-seed](https://github.com/common-parallel-corpora/common-parallel-corpora)
-- dev set:
-  - [common-parallel-corpora/flores-200-dev](https://github.com/common-parallel-corpora/common-parallel-corpora)
-- test set:
-  - [common-parallel-corpora/flores-200-devtest](https://github.com/common-parallel-corpora/common-parallel-corpora)
+Find data download links and task details [here](https://github.com/common-parallel-corpora/common-parallel-corpora#2023-06-19-wmt-2023-nko-nmt-task-details).
+
 
 
 ## Dataset Description
